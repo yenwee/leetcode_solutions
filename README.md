@@ -20,8 +20,11 @@
 |15 |[`3Sum`](https://leetcode.com/problems/3sum/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/15.%203Sum/3_sum_two_pointer.py)| Medium |
 |16 |[`3Sum Closest`](https://leetcode.com/problems/3sum-closest/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/16.%203Sum%20Closest/3_sum_closest.py)| Medium |
 |17 |[`Letter Combinations of a Phone Number`](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/phone_num_combination.py)| Medium |
+|18 |[`4Sum`](https://leetcode.com/problems/4sum/)|[Python](https://github.com/yenwee/leetcode_solutions)| Medium |
+|19 |[`Remove Nth Node From End of List`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](https://github.com/yenwee/leetcode_solutions)| Medium |
 |23 |[`Merge k Sorted Lists`](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/23.%20Merge%20k%20Sorted%20Lists/merge_k_sorted.py)| Hard |
 |80 |[`Remove Duplicates from Sorted Array II`](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/remove_dup_from_sorted_array_ii.py)| Medium |
+|389 |[`Find the Difference`](https://leetcode.com/problems/find-the-difference/)|[Python](https://github.com/yenwee/leetcode_solutions)| Medium |
 |454 |[`4Sum II`](https://leetcode.com/problems/4sum-ii/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/454.%204Sum%20II/4_sum_ii.py)| Medium |
 |525 |[`Contiguous Array`](https://leetcode.com/problems/contiguous-array/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/525.%20Contiguous%20Array/contiguous_array.py)| Medium |
 |1480 |[`Running Sum of 1d Array`](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/1480.%20Running%20Sum%20of%201d%20Array/running_sum_of_1d_array.py)| Easy |
