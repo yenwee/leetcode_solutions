@@ -46,7 +46,9 @@ Attempted Questions:
 |43 |[`Multiply Strings`](https://leetcode.com/problems/multiply-strings/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/43.%20Multiply%20Strings/multiply_strings.py)| Medium |
 |48 |[`Rotate Image`](https://leetcode.com/problems/rotate-image/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/48.%20Rotate%20Image/rotate_image.py)| Medium |
 |49 |[`Group Anagrams`](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/49.%20Group%20Anagrams/group_anagram.py)| Medium |
-|50 |[`Pow(x, n)`](https://leetcode.com/problems/powx-n//)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/50.%20Pow_x%2Cn/pow_x%2Cn.py)| Medium |
+|50 |[`Pow(x, n)`](https://leetcode.com/problems/powx-n/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/50.%20Pow_x%2Cn/pow_x%2Cn.py)| Medium |
+|56 |[`Merge Interval`](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/56.%20Merge%20Intervals/merge_intervals.py)| Easy |
+|57 |[`Insert Interval`](https://leetcode.com/problems/insert-intervals/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/57.%20Insert%20Interval/insert_interval.py)| Medium |
 |78 |[`Subsets`](https://leetcode.com/problems/subsets/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/78.%20Subsets/subsets_recursion.py)| Medium |
 |80 |[`Remove Duplicates from Sorted Array II`](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/remove_dup_from_sorted_array_ii.py)| Medium |
 |104 |[`Maximum Depth of Binary Tree`](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Easy](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/104.%20Maximum%20Depth%20of%20Binary%20Tree/maximum_depth_of_binary_tree.py)| Easy |
