@@ -6,7 +6,7 @@
 
 Attempted Questions:
 
- - Easy: 19 /546Q 
+ - Easy: 20 /546Q 
  - Medium: 30 /1159Q
  - Hard: 3 /468Q
  - **Total 52 / 2173Q** 
