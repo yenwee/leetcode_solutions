@@ -1,7 +1,15 @@
+
 # Leetcode Solutions (In Progress)
 ![image](https://user-images.githubusercontent.com/95974393/152679059-9839749a-72bb-4842-8c5a-a12184cbfaf7.png)
 >“We can only see a short distance ahead, but we can see plenty there that needs to be done.”  
 ― Alan Turing, Father of Modern Computer Science.
+
+Attempted Questions:
+
+ - Easy: 19 /546Q 
+ - Medium: 30 /1159Q
+ - Hard: 3 /468Q
+ - **Total 52 / 2173Q** 
 
 |       #         |Title                          |Solution (In Code)          | Difficulty |
 |----------------|-------------------------------|-----------------------------|----------- |
@@ -23,14 +31,33 @@
 |18 |[`4Sum`](https://leetcode.com/problems/4sum/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/18.%204Sum/4_sum_two_pointer_nested_loop.py)| Medium |
 |19 |[`Remove Nth Node From End of List`](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_nth_node_loop_to_find_target.py)| Medium |
 |20 |[`Valid Parentheses`](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/20.%20Valid%20Parentheses/valid_parentheses.py)| Easy |
+|21 |[`Merge Two Sorted Lists`](https://leetcode.com/problems/merge-two-sorted-lists//)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/21.%20Merge%20Two%20Sorted%20Lists/merge_2_sorted_list.py)| Easy |
+|22 |[`Generate Parentheses`](https://leetcode.com/problems/generate-parentheses)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/22.%20Generate%20Parentheses/generate_parentheses_iterative.py)| Medium |
 |23 |[`Merge k Sorted Lists`](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/23.%20Merge%20k%20Sorted%20Lists/merge_k_sorted.py)| Hard |
+|24 |[`Swap Nodes in Pairs`](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/24.%20Swap%20Nodes%20in%20Pairs/swap_nodes_in_pairs.py)| Medium |
+|26 |[`Remove Duplicates from Sorted Array`](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/26.%20Remove%20Duplicates%20from%20Sorted%20Array/remove_dup_from_sorted_array.py)| Easy |
+|27 |[`Remove Element`](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/27.%20Remove%20Element/remove_element.py)| Easy |
+|28 |[`Implement strStr()`](https://leetcode.com/problems/implement-strstr/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/28.%20Implement%20strStr/implement_str_str.py)| Easy |
+|34 |[`Find First and Last Position of Element in Sorted Array)`](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/find_first_and_last_position_of_element_in_sorted_array.py)| Medium |
+|35 |[`Search Insert Position`](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/28.%20Implement%20strStr/implement_str_str.py)| Easy |
 |36 |[`Valid Sudoku`](https://leetcode.com/problems/valid-sudoku/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/36.%20Valid%20Sudoku/valid_sudoku_recording_seen.py)| Medium |
 |37 |[`Sudoku Solver`](https://leetcode.com/problems/sudoku-solver/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/37.%20Sudoku%20Solver/sudoku_solver_recursion.py)| Hard |
+|38 |[`Count and Say`](https://leetcode.com/problems/count-and-say/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/38.%20Count%20and%20Say/count_and_say.py)| Medium |
+|43 |[`Multiply Strings`](https://leetcode.com/problems/multiply-strings/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/43.%20Multiply%20Strings/multiply_strings.py)| Medium |
+|48 |[`Rotate Image`](https://leetcode.com/problems/rotate-image/|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/48.%20Rotate%20Image/rotate_image.py)| Medium |
+|49|[`Group Anagrams`](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/49.%20Group%20Anagrams/group_anagram.py)| Medium |
+|50 |[`Pow(x, n)`](https://leetcode.com/problems/powx-n//)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/50.%20Pow_x%2Cn/pow_x%2Cn.py)| Medium |
+|78 |[`Subsets`](https://leetcode.com/problems/subsets/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/78.%20Subsets/subsets_recursion.py)| Medium |
 |80 |[`Remove Duplicates from Sorted Array II`](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/remove_dup_from_sorted_array_ii.py)| Medium |
+|104 |[`Maximum Depth of Binary Tree`](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Easy](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/104.%20Maximum%20Depth%20of%20Binary%20Tree/maximum_depth_of_binary_tree.py)| Easy |
+|136 |[`Single Number`](https://leetcode.com/problems/single-number/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/136.%20Single%20Number/single_number.py)| Easy |
+|258 |[`Add Digits`](https://leetcode.com/problems/add-digits/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/258.%20Add%20Digits/add_digits_iter.py)| Easy |
 |389 |[`Find the Difference`](https://leetcode.com/problems/find-the-difference/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/389.%20Find%20the%20Difference/find_the_diff_count.py)| Easy |
 |454 |[`4Sum II`](https://leetcode.com/problems/4sum-ii/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/454.%204Sum%20II/4_sum_ii.py)| Medium |
 |525 |[`Contiguous Array`](https://leetcode.com/problems/contiguous-array/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/525.%20Contiguous%20Array/contiguous_array.py)| Medium |
 |532 |[`K-diff Pairs in an Array`](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/532.%20K-diff%20Pairs%20in%20an%20Array/k_diff_pairs_in_an_array.py)| Medium |
+|560 |[`Subarray Sum Equals K`](https://leetcode.com/problems/subarray-sum-equals-k/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/560.%20Subarray%20Sum%20Equals%20K/subarray_sum_equals_k.py)| Medium |
+|567 |[`Permutation in String`](https://leetcode.com/problems/permutation-in-string/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/567.%20Permutation%20in%20String/permutation_in_string.py)| Medium |
 |1480 |[`Running Sum of 1d Array`](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/1480.%20Running%20Sum%20of%201d%20Array/running_sum_of_1d_array.py)| Easy |
 |1672 |[`Richest Customer Wealth`](https://leetcode.com/problems/richest-customer-wealth/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/1672.%20Richest%20Customer%20Wealth/richest_customer_wealth.py)| Easy |
 |1920 |[`Build Array from Permutation`](https://leetcode.com/problems/build-array-from-permutation/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/1920.%20Build%20Array%20from%20Permutation/array_from_permutation.py)| Easy |
