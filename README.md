@@ -4,18 +4,20 @@
 >“We can only see a short distance ahead, but we can see plenty there that needs to be done.”  
 ― Alan Turing, Father of Modern Computer Science.
 
+Journey Since: 3 February 2022
 Attempted Questions:
 
- - Easy: 20 /546Q 
- - Medium: 30 /1159Q
+ - Easy: 23 /546Q 
+ - Medium: 40 /1159Q
  - Hard: 3 /468Q
- - **Total 52 / 2173Q** 
+ - **Total 66 / 2173Q** 
 
 |       #         |Title                          |Solution (In Code)          | Difficulty |
 |----------------|-------------------------------|-----------------------------|----------- |
 |1|[`Two Sum`](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/1.%20Two%20Sum/two_sum.py)| Easy |
 |2 |[`Add Two Number`](https://leetcode.com/problems/add-two-numbers/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/2.%20Add%20Two%20Number/add_two_number.py)| Medium |
 |3 |[`Longest Substring Without Repeating Characters`](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring_without_repeating.py)| Medium |
+|4 |[`Median of Two Sorted Arrays`](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/4.%20Median%20of%20Two%20Sorted%20Arrays/median_of_two_sorted_array.py)| Medium |
 |5 |[`Longest Palindromic Substring`](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/5.%20Longest%20Palindromic%20Substring/longest_palindromic_substring.py)| Medium |
 |6 |[`Zigzag Conversions`](https://leetcode.com/problems/zigzag-conversion/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/6.%20Zigzag%20Conversion/zigzag_conversion.py)| Medium |
 |7 |[`Reverse Integer`](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/7.%20Reverse%20Integer/reverse_integer.py)| Medium |
@@ -43,14 +45,26 @@ Attempted Questions:
 |36 |[`Valid Sudoku`](https://leetcode.com/problems/valid-sudoku/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/36.%20Valid%20Sudoku/valid_sudoku_recording_seen.py)| Medium |
 |37 |[`Sudoku Solver`](https://leetcode.com/problems/sudoku-solver/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/37.%20Sudoku%20Solver/sudoku_solver_recursion.py)| Hard |
 |38 |[`Count and Say`](https://leetcode.com/problems/count-and-say/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/38.%20Count%20and%20Say/count_and_say.py)| Medium |
+|39 |[`Combination Sum`](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/39.%20Combination%20Sum/combination_sum.py)| Medium |
 |43 |[`Multiply Strings`](https://leetcode.com/problems/multiply-strings/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/43.%20Multiply%20Strings/multiply_strings.py)| Medium |
-|48 |[`Rotate Image`](https://leetcode.com/problems/rotate-image/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/48.%20Rotate%20Image/rotate_image.py)| Medium |
-|49 |[`Group Anagrams`](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/49.%20Group%20Anagrams/group_anagram.py)| Medium |
+|48 |[`Rotate Image`](https://leetcode.com/problems/rotate-image/|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/48.%20Rotate%20Image/rotate_image.py)| Medium |
+|49|[`Group Anagrams`](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/49.%20Group%20Anagrams/group_anagram.py)| Medium |
 |50 |[`Pow(x, n)`](https://leetcode.com/problems/powx-n/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/50.%20Pow_x%2Cn/pow_x%2Cn.py)| Medium |
-|56 |[`Merge Interval`](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/56.%20Merge%20Intervals/merge_intervals.py)| Easy |
-|57 |[`Insert Interval`](https://leetcode.com/problems/insert-intervals/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/57.%20Insert%20Interval/insert_interval.py)| Medium |
+|56 |[`Merge Intervals`](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/56.%20Merge%20Intervals/merge_intervals.py)| Medium |
+|57 |[`Insert Intervals`](https://leetcode.com/problems/insert-interval/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/57.%20Insert%20Interval/insert_interval.py)| Medium |
 |58 |[`Length of Last Word`](https://leetcode.com/problems/length-of-last-word/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/58.%20Length%20of%20Last%20Word/length_of_last_word_one_line.py)| Easy |
+|62 |[`Unique Paths`](https://leetcode.com/problems/unique-paths/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/62.%20Unique%20Paths/unique_paths.py)| Medium |
+|62 |[`Unique Paths II`](https://leetcode.com/problems/unique-paths-ii/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/63.%20Unique%20Paths%20II/unique_paths_ii.py)| Medium |
+|64 |[`Minimum Path Sum`](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/64.%20Minimum%20Path%20Sum/min_path_sum.py)| Medium |
+|66 |[`Plus One`](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/yenwee/leetcode_solutions/tree/main/scripts/66.%20Plus%20One)| Easy |
+|69 |[`Sqrt(x)`](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/69.%20Sqrt_x/sqrt_x.py)| Easy |
+|70 |[`Climbing Stairs`](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/70.%20Climbing%20Stairs/climbing_stairs.py)| Easy |
+|71 |[`Simplify Path`](https://leetcode.com/problems/simplify-path/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/71.%20Simplify%20Path/simplify_path.py)| Medium |
+|73 |[`Set Matrix Zeroes`](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/73.%20Set%20Matrix%20Zeroes/set_matrix_zeroes.py)| Medium |
+|74 |[`Search a 2D Matrix`](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/74.%20Search%20a%202D%20Matrix/search_2d_matrix.py)| Medium |
+|75 |[`Sort Colors`](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/yenwee/leetcode_solutions/tree/main/scripts/75.%20Sort%20Colors)| Medium |
 |78 |[`Subsets`](https://leetcode.com/problems/subsets/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/78.%20Subsets/subsets_recursion.py)| Medium |
+|79 |[`Word Search`](https://leetcode.com/problems/word-search/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/79.%20Word%20Search/word_search.py)| Medium |
 |80 |[`Remove Duplicates from Sorted Array II`](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/remove_dup_from_sorted_array_ii.py)| Medium |
 |104 |[`Maximum Depth of Binary Tree`](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Easy](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/104.%20Maximum%20Depth%20of%20Binary%20Tree/maximum_depth_of_binary_tree.py)| Easy |
 |136 |[`Single Number`](https://leetcode.com/problems/single-number/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/136.%20Single%20Number/single_number.py)| Easy |
