@@ -6,6 +6,7 @@
 
 Adding In SQL Solved Questions
 Journey Since: 3 February 2022
+
 Attempted Questions:
 
  - Easy: 23 /546Q 
@@ -48,7 +49,7 @@ Attempted Questions:
 |38 |[`Count and Say`](https://leetcode.com/problems/count-and-say/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/38.%20Count%20and%20Say/count_and_say.py)| Medium |
 |39 |[`Combination Sum`](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/39.%20Combination%20Sum/combination_sum.py)| Medium |
 |43 |[`Multiply Strings`](https://leetcode.com/problems/multiply-strings/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/43.%20Multiply%20Strings/multiply_strings.py)| Medium |
-|48 |[`Rotate Image`](https://leetcode.com/problems/rotate-image/|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/48.%20Rotate%20Image/rotate_image.py)| Medium |
+|48 |[`Rotate Image`](https://leetcode.com/problems/rotate-image/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/48.%20Rotate%20Image/rotate_image.py)| Medium |
 |49|[`Group Anagrams`](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/49.%20Group%20Anagrams/group_anagram.py)| Medium |
 |50 |[`Pow(x, n)`](https://leetcode.com/problems/powx-n/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/50.%20Pow_x%2Cn/pow_x%2Cn.py)| Medium |
 |56 |[`Merge Intervals`](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/yenwee/leetcode_solutions/blob/main/scripts/56.%20Merge%20Intervals/merge_intervals.py)| Medium |
